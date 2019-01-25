@@ -1,0 +1,7 @@
+beautifulsoup4
+ffmpy
+google
+google-cloud-storage
+google-cloud-bigquery
+PyYAML
+soupsieve

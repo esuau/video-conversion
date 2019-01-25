@@ -1,0 +1,6 @@
+gcloud:
+    bucket:
+        name: 'problem-solving'
+    bigquery:
+        dataset: 'problem_solving'
+        table: 'conversion_stats'
